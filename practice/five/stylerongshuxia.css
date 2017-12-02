@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+img{
+    width: 100px;
+    height: 120px;
+} 
+#all{
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    padding: 12px 6px 20px 10px;
+    border: 0;
+}
+#title{
+    margin-bottom: 12px;
+    padding: 4px 6px 4px 6px;
+    border: 0;
+    width: 478px;
+    height: 50px;
+    color: #00CC00;
+}
+#h2{
+    float: left;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+#more{
+    display: block;
+    border: 1px solid #A0A0A0;
+    width: 60px;
+    height: 18px;
+    text-decoration: none;
+    float: right;
+    margin: 20px 0;
+    color: #606060;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+#booklist{
+    padding: 20px 12px;
+}
+.fold{
+    width: 450px;
+    height: 35px;
+    margin: 4px 10px;
+    border-bottom: solid #C0C0C0 1px;
+}
+.numberbox{
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-color: #339933;
+    border-radius: 5px;
+}
+.num{
+    display: inline-block;
+    padding: 1px 0;
+    color: #fff;
+    width: 15px;
+    line-height: 100%;
+    font-size: 15px;
+    text-align: center;
+}
+.heading{
+    margin-left: 10px;
+    width: 200px;
+    height: 35px;
+    float: left;
+}
+.unfold{
+    margin: 4px 10px;
+    width: 450px;
+    height: 150px;
+    border-bottom: solid #C0C0C0 1px;
+}
+.box{
+    width: 20px;
+    height: 20px;
+    float: left;
+    background-color: #FF9900;
+    border-radius: 5px;    
+}
+.cover{
+    margin: 10px 20px;
+    width: 100px;
+    height: 130px;
+    float: left;
+}
+.introduction{
+    margin: 10px 20px;
+    width: 200px;
+    height: 80px;
+    float: left;
+}
+.introduction a{
+    text-decoration: none;
+}
+.text{
+    padding: 5px;
+}
+.haha{
+    color: #000000;
+}
+.lala{
+    color: #A0A0A0;
+}
