@@ -1,0 +1,27 @@
+#fir{
+    font-weight: normal;
+    text-align: center;
+    height:2.5rem;
+}
+#sec{
+    font-weight:bold;
+}
+ul{
+    font-weight: bold;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+#special{
+    font-weight: bolder;
+}
+div{
+    overflow: auto;
+}
+.third{
+    width:20%;
+    float: left;
+    font-weight: bold;
+    margin: 0.75rem;
+    padding-left:0.25rem;
+}

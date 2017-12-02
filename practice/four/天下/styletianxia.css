@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+img{
+    border: none;
+    background-color: #FFF;
+}
+#all{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 10px 20px 5px;
+    background-color: #F00;
+}
+#one{
+    padding: 10px 20px;
+    width: 560px;
+    height: 350px;
+    background-color: #0F0;
+}
+#p{
+    width: 560px;
+    height: 350px;
+    background-color: #C0C0C0;
+}
+#imgone{
+    width: 100px;
+    height: 100px;
+    border: none;
+}
+#two{
+    padding: 10px 20px 5px;
+    width: 560px;
+    height: 100px;
+    background-color: #FF0;    
+}
+.img{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 10px 20px;
+}
+#special{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 10px 80px 10px 40px;    
+}
